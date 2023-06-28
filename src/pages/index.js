@@ -81,7 +81,7 @@ export default function Home() {
           IFRAME(/child)
         </span>
         <iframe
-          src="http://localhost:3000/child"
+          src="/child"
           ref={iframeRef}
           width={510}
           height={540}
