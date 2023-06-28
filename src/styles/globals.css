@@ -25,3 +25,19 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+iframe {
+  background-color: transparent;
+  border-radius: 24px;
+}
+
+input {
+  padding: 4px 8px;
+  border-radius: 8px;
+}
+
+textarea {
+  padding: 4px 8px;
+  border-radius: 8px;
+  height: 200px;
+}
